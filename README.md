@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Dê uma olhadinha nas minhas redes!
+Caso sentir-se tocado, dê uma olhadinha nas minhas redes! ☺☺☺
 
 <div>
     <a href="https://www.instagram.com/ana_bia_vidal/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1076/1076991.png" alt="ana_bia_vidal" target="_blanck" style="height: 50px; width: 50px;"></a>
