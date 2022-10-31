@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+ 
+Sou estudante do Senac, pelo Resilia, no programa da prefeitura do Rio: Programadores Cariocas.
+Estudando sobre HTML, CSS e passando bastante raiva com JavaScript, mas continuamos seguindo firme!
+ 
 Caso sentir-se tocado, dê uma olhadinha nas minhas redes! ☺☺☺
 
 <div>
