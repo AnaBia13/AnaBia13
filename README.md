@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 -->
  
 Sou estudante do Senac, pelo Resilia, no programa da prefeitura do Rio: Programadores Cariocas.
-Estudando sobre HTML, CSS e passando bastante raiva com JavaScript, mas continuamos seguindo firme!
- 
-Caso sentir-se tocado, dê uma olhadinha nas minhas redes! ☺☺☺
+Estudando sobre HTML, CSS e JavaScript.
 
 <div>
     <a href="https://www.instagram.com/ana_bia_vidal/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1076/1076991.png" alt="ana_bia_vidal" target="_blanck" style="height: 50px; width: 50px;"></a>
