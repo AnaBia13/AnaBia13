@@ -1,4 +1,4 @@
-# ♥♥♥ Sejam Bem-vindos! ♥♥♥
+# ✨Bem-vindo ao meu perfil✨
 
 
 <!--
@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-Sou estudante do Senac, pelo Resilia, no programa da prefeitura do Rio: Programadores Cariocas.
-Estudando sobre HTML, CSS e JavaScript.
-
-<div>
-    <a href="https://www.instagram.com/ana_bia_vidal/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/1076/1076991.png" alt="ana_bia_vidal" target="_blanck" style="height: 50px; width: 50px;"></a>
-    <a href="https://www.instagram.com/dotes.anabia/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/355/355975.png" alt="dotes.anabia" target="_blanck" style="height: 50px; width: 50px;"></a>
-    <a href="https://www.linkedin.com/in/ana-beatriz-vidal-o-s-novais-023601146/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" alt="ana-beatriz-vidal-o-s-novais" target="_blanck" style="height: 50px; width: 50px;"></a>
-</div>
+ ## Prazer em ter você no meu perfil!
+ 
+ ### Me chamo Ana Beatriz Vidal, sou curiosa com o mundo tecnológico e amo explorar tudo o que ele pode proporcionar.
+ 
+ ## Um pouquinho sobre mim 💬
+ 
+ ### Nasci em 1999, moro no estado do Rio de Janeiro, casada, com ensino médio completo. <br>Participei, e concluí, o curso de Programadores Cariocas, com incentivo da prefeitura do Rio e  <br>da instituição Senac RJ, pela plataforma Resilia, no qual estão disponibilizados os projetos de todos os módulos feitos. <br> Atualmente, ingressei e estudo Lógica de Progração pela plataforma Alura, através da ONE, onde escolhi focar a trilha de back-end.
+ 
+ ##Obrigado por visitar o meu perfil do GitHub. Espero que você encontre algo útil e interessante aqui. Fique à vontade para explorar meus projetos e não se esqueça de dar uma estrela nos repositórios que você gostou! 😄
